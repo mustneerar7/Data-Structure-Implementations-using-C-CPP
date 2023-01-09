@@ -9,3 +9,5 @@ in regular C source files.
 - `C/C++` Stack
 - `C/C++` Queue
 - `C++` Linked List
+- `C++` Trees
+- `C++` Sorting Algorithms
